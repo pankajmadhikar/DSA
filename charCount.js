@@ -1,3 +1,7 @@
+// Question: Write a function that takes a string and a character as arguments
+// and returns (or logs) the number of times that character appears in the string.
+// If invalid inputs are passed, log "Pass string and character as a argument".
+
 // const countCahr = (str, char) => {
 //   if (!!str && !!char && str?.trim()?.length > 0) {
 //     let count = 0;

@@ -1,3 +1,6 @@
+// Question: Write a function that takes a string and returns (or logs) the longest word in it.
+// If the string is empty or only whitespace, log the string and return.
+
 let myString = "Hello Pankaj Madhikar, hows your day";
 
 const LongGetWordString = (myString) => {
